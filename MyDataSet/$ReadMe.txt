@@ -1,0 +1,1 @@
+A dataset of neuronal spiking pattern signals consisting of tonic spike and tonic burst. The dataset is containing 50 tonic spike and 50 tonic burst signals. The sampling rate of these signals are 1200 and they are generated from a mathematical hyperbolic model of neuronal firing patterns that resemble actual biological recordings.
